@@ -235,3 +235,17 @@ supplier - invoice
 supplier - receipt
 ```
 
+## Permissions
+
+```
+Check what restricted users can do. Create and use users with only these roles:
+
+Support Team
+Material User
+Projects User
+Employee
+HR User
+Purchase User
+Sales User
+Accounts User
+```
